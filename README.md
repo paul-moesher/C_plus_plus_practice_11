@@ -1,3 +1,2 @@
-# C_plus_plus_practice_11
-Basic c++ 
-Pratice with ifs.
+# Student-Points-Earned
+C++ program that shows students how many reward points they have.
